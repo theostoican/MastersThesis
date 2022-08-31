@@ -3,3 +3,4 @@
 presentations/DS_Store
 *.csv
 mnist_experiments/mnist/*
+utils/__pycache__/*
