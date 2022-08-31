@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
 presentations/DS_Store
+*.csv
+mnist_experiments/mnist/*
